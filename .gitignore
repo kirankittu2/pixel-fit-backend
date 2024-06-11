@@ -1,0 +1,8 @@
+# Flask related
+__pycache__/
+*.pyc
+instance/
+.env
+
+# Virtual environment
+venv/
